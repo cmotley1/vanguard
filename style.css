@@ -80,6 +80,7 @@ table {
     }
 }
 
+
 @keyframes svgBounces{
     from{
         transform: translate(0,20px);
